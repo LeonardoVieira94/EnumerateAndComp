@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\projetos\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4026A4-482A-457A-8A0B-F1830F3D97DF}|Test\\Test.csproj|g:\\projetos\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4026A4-482A-457A-8A0B-F1830F3D97DF}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4026A4-482A-457A-8A0B-F1830F3D97DF}|Test\\Test.csproj|g:\\projetos\\test\\test\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4026A4-482A-457A-8A0B-F1830F3D97DF}|Test\\Test.csproj|solutionrelative:test\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4026A4-482A-457A-8A0B-F1830F3D97DF}|Test\\Test.csproj|g:\\projetos\\test\\test\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4026A4-482A-457A-8A0B-F1830F3D97DF}|Test\\Test.csproj|solutionrelative:test\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4026A4-482A-457A-8A0B-F1830F3D97DF}|Test\\Test.csproj|g:\\projetos\\test\\test\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4026A4-482A-457A-8A0B-F1830F3D97DF}|Test\\Test.csproj|solutionrelative:test\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4026A4-482A-457A-8A0B-F1830F3D97DF}|Test\\Test.csproj|g:\\projetos\\test\\test\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4026A4-482A-457A-8A0B-F1830F3D97DF}|Test\\Test.csproj|solutionrelative:test\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4026A4-482A-457A-8A0B-F1830F3D97DF}|Test\\Test.csproj|g:\\projetos\\test\\test\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4026A4-482A-457A-8A0B-F1830F3D97DF}|Test\\Test.csproj|solutionrelative:test\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "G:\\projetos\\Test\\Test\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Test\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "G:\\projetos\\Test\\Test\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Test\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T21:04:06.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "G:\\projetos\\Test\\Test\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Test\\Entities\\Order.cs",
+              "ToolTip": "G:\\projetos\\Test\\Test\\Entities\\Order.cs",
+              "RelativeToolTip": "Test\\Entities\\Order.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wDgAAACcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T20:59:11.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "G:\\projetos\\Test\\Test\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Test\\Entities\\OrderItem.cs",
+              "ToolTip": "G:\\projetos\\Test\\Test\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Test\\Entities\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T20:56:32.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "G:\\projetos\\Test\\Test\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Test\\Entities\\Product.cs",
+              "ToolTip": "G:\\projetos\\Test\\Test\\Entities\\Product.cs",
+              "RelativeToolTip": "Test\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T20:53:14.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "G:\\projetos\\Test\\Test\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Test\\Entities\\Client.cs",
+              "ToolTip": "G:\\projetos\\Test\\Test\\Entities\\Client.cs",
+              "RelativeToolTip": "Test\\Entities\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T20:51:49.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\projetos\\Test\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "G:\\projetos\\Test\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T20:42:11.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
